@@ -1,5 +1,7 @@
 <?php
 
-echo "this is test"l;
+$text = "my name is test";
+
+echo "this is test1".$text;
 
 ?>
